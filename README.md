@@ -2,7 +2,7 @@
 
 Soongsil University SmartSystemSoftware
 
-participant: Yenchul Kim, Hyewon Park, Haneul Bea, Haein Lee
+participant: Yeoncheol Kim, Hyewon Park, Haneul Bea, Haein Lee
 
 openCV, openGL powered by Visual Studio on Windows.
 We took a same network workstation between PC and Raspberry Pis using portable home router.
